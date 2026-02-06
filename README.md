@@ -11,9 +11,9 @@ and copy recognized text using Tesseract OCR.
 Inspired by Google Lens on Android.
 
 ## Dependencies
-- tesseract-ocr
+- gnome-screenshot (Wayland safe)
+- tesseract-ocr (+ language packs)
 - imagemagick
-- gnome-screenshot
 
 ## License
-MIT
+Apache 2.0
