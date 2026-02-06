@@ -2,7 +2,7 @@
   "uuid": "screen-ocr@thiagoprz",
   "name": "Screen OCR",
   "description": "Select any area on the screen and copy recognized text to clipboard (OCR).",
-  "version": 1,
+  "version": 2,
   "shell-version": ["45", "46"],
   "url": "https://github.com/thiagoprz/gnome-screen-ocr"
 }
