@@ -1,0 +1,8 @@
+<schemalist>
+  <schema id="org.gnome.shell.extensions.screen-ocr">
+    <key name="shortcut" type="as">
+      <default>["<Super><Shift>O"]</default>
+      <summary>OCR shortcut</summary>
+    </key>
+  </schema>
+</schemalist>
